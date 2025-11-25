@@ -1,7 +1,7 @@
-import Latte from "../assets/lk.png";
-import Pastry from "../assets/lk.png";
-import ArtCoffee from "../assets/lk.png";
-import Interior from "../assets/lk.png";
+import Latte from "../assets/coffe1.jpg";
+import Pastry from "../assets/pastries.jpg";
+import ArtCoffee from "../assets/coffe2.jpg";
+import Interior from "../assets/coffe 3.jpg";
 
 export default function Gallery() {
   const images = [
@@ -37,9 +37,9 @@ export default function Gallery() {
 
         {/* Title */}
         <div className="text-center mb-16">
-          <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
+          <h4 className="text-4xl sm:text-3xl font-bold text-gray-900 mb-4">
             Menu Highlights
-          </h2>
+          </h4>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Discover the best flavors crafted with passion
           </p>

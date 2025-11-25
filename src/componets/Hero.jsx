@@ -33,7 +33,7 @@ export default function Hero() {
           Aroma Haven
         </h2>
         <p className="text-lg xs:text-xl sm:text-2xl text-amber-100 mb-6 sm:mb-8 font-light">
-          Where Every Cup Tells a Story
+          Inspired by the rich aroma of Ceylon’s finest beans
         </p>
 
         <button
