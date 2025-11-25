@@ -1,20 +1,69 @@
-<<<<<<< HEAD
-# React + Vite
+# ☕ Aroma Haven – Café Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive café website inspired by Sri Lankan coffee culture.  
+Built using **React, Vite, and Tailwind CSS**, featuring a premium color theme, 3D UI effects, imported assets, and a full-screen video hero section.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Hosted Website
 
-## React Compiler
+https://savindi500.github.io/cafe-website/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎨 Figma Design Link
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# cafe-website
->>>>>>> 229615da1b9e462a98aa0029a74b846f50d5a749
+*(Add your Figma link here)*  
+> UI reference for layout and components.
+
+---
+
+## 💻 GitHub Repository
+
+https://github.com/savindi500/cafe-website
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **React JS** | Component-based UI |
+| **Vite** | Fast development & build |
+| **Tailwind CSS** | Modern styling |
+| **Lucide Icons** | Icon components |
+| **GitHub Pages** | Hosting |
+
+---
+
+## ✨ Features
+
+✔ Fullscreen **video background hero section**  
+✔ **Sri Lankan style tagline & theme**  
+✔ **3D hover gallery cards** showing product details  
+✔ **Imported assets (images & video)** for premium visuals  
+✔ **Footer with custom color (#512615) + gold accent (#dfc27c)**  
+✔ Fully **mobile-responsive** (2 gallery cards per row)  
+✔ Smooth animations & interactive buttons  
+
+---
+
+
+## 🚀 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/savindi500/cafe-website.git
+
+# Navigate into project
+cd cafe-website
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
+
+
