@@ -1,4 +1,4 @@
-# ☕ Aroma Haven – Café Website
+# ☕ Aroma Haven – Cafe Website
 
 A modern, responsive café website inspired by Sri Lankan coffee culture.  
 Built using **React, Vite, and Tailwind CSS**, featuring a premium color theme, 3D UI effects, imported assets, and a full-screen video hero section.
@@ -13,8 +13,7 @@ https://savindi500.github.io/cafe-website/
 
 ## 🎨 Figma Design Link
 
-*(Add your Figma link here)*  
-> UI reference for layout and components.
+https://www.figma.com/design/XJbVojl9CtcbVC6TkyiwQ2/Aroma--Haven?node-id=0-1&t=RRF2c0kPR9THHiiN-1
 
 ---
 
