@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
-import Logo from "../assets/logo1.png";
+import Logo from "../assets/LK.png";
 
 
 export default function Navbar() {
