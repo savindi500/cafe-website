@@ -73,7 +73,7 @@ export default function Gallery() {
 
                   {/* Simple Button */}
                   <button
-                    className="mt-3 bg-amber-600 hover:bg-amber-700 text-white w-full py-1.5 sm:py-2 rounded-full text-xs sm:text-sm font-medium transition-all duration-300 transform hover:scale-105"
+                    className="mt-3 bg-amber-900 hover:bg-amber-700 text-white w-full py-1.5 sm:py-2 rounded-full text-xs sm:text-sm font-medium transition-all duration-300 transform hover:scale-105"
                   >
                     Add to Cart
                   </button>

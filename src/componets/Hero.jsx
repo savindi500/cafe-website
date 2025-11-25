@@ -38,7 +38,7 @@ export default function Hero() {
 
         <button
           onClick={scrollToGallery}
-          className="group inline-flex items-center space-x-1 xs:space-x-2 bg-amber-600 hover:bg-amber-700 text-white px-6 xs:px-7 sm:px-8 py-3 xs:py-3.5 sm:py-4 rounded-full text-base xs:text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg sm:shadow-xl"
+          className="group inline-flex items-center space-x-1 xs:space-x-2 bg-amber-900 hover:bg-amber-700 text-white px-6 xs:px-7 sm:px-8 py-3 xs:py-3.5 sm:py-4 rounded-full text-base xs:text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg sm:shadow-xl"
         >
           <span>Explore Menu</span>
           <ArrowRight className="w-4 h-4 xs:w-5 xs:h-5 group-hover:translate-x-1 transition-transform" />
